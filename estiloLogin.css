@@ -1,0 +1,12 @@
+.login-form {
+    margin: auto;
+    width: 550px;
+    padding: 40px;
+    border-radius: 5px;
+    border: 1px solid #33bbc3; 
+    text-align:center;
+    background-color: #33bbc3;
+}
+.conteinerlink{
+    text-align:center;
+}
